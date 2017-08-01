@@ -1,4 +1,5 @@
 # Site Settings
+encoding                 : UTF-8
 locale                   : "en"
 title                    : "Marc Sanchez-Artigas's site"
 title_separator          : "-"
