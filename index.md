@@ -1,7 +1,7 @@
 ---
 layout: home2
 title: Me in a Nutshell
-description: "Marc Sánchez-Artigas's website"
+description: "Marc Sanchez-Artigas's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: trees.jpg
