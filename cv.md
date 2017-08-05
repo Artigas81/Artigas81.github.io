@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: CV
-permalink: /
+permalink: /cv/
 description: "Marc Sanchez-Artigas's website"
 author_profile: true
 tags: [URV, AST, Distributed Computing]
