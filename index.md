@@ -9,10 +9,5 @@ header:
 ---
 
 
-I'm a post-doctoral researcher in [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1)'s [ETHZ vision group](http://www.vision.ee.ethz.ch/index.en.html).
 
-<br />
-Previously, I did an 8-month internship at <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research, Zürich</a>, under the supervision of <a href="http://zurich.disneyresearch.com/~smolica/" target="_blank">Prof. Aljoscha Smolic</a>, I visited <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. Jitendra Malik</a>'s vision group in <a href="http://www.berkeley.edu" target="_blank">UC Berkeley</a>, and I collaborated with the startup <a href="http://fezoo.cat" target="_blank">Fezoo</a>.
-
-<br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a> under the supervision of <a href="https://imatge.upc.edu/web/ferran" target="_blank">Prof. Ferran Marques</a>.
+I'm a Tenure-track Associate Professor at [Universitat Rovira i Virgili](http://www.urv.cat/en/) (Tarragona, Spain) in the Department of Computer Engineering and Maths. I obtained his Ph.D. degree in 2009 with European Mention at UPF (Barcelona, Spain). During my PhD, I also worked at EPFL (Switzerland). In 2009, he joined the Universitat Rovira i Virgili, Department of Computer Engineering and Maths as an assistant professor. He received the Best Paper Award from IEEE LCN'07 and Best Dataset Award from ACM IMC'15. He has participated in several research projects such as IOStack, CloudSpaces, IST-POPEYE, PLANET, P2PGRID, DELFIN and REALCloud. He has coauthored more than 60 papers published on international journals and conference proceedings. 
