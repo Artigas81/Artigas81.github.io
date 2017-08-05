@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: default
 title: Me in a Nutshell
 description: "Marc Sanchez-Artigas's website"
 author_profile: true
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [URV, AST, Distributed Computing]
 image:
   feature: trees.jpg
 ---
