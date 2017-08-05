@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: Me in a Nutshell
 description: "Marc Sanchez-Artigas's website"
 author_profile: true
