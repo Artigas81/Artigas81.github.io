@@ -5,10 +5,7 @@ description: "Marc Sanchez-Artigas's website"
 author_profile: true
 tags: [URV, AST, Distributed Computing]
 header:
-  overlay_image: /assets/images/trees.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_label: "More Info"
-  cta_url: "https://unsplash.com"
+  overlay_image: /assets/images/Grauges.jpg
 ---
 
 
