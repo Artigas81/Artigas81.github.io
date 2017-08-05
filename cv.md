@@ -16,7 +16,7 @@ header:
 </style>
 
 
-![](/assets/business.png)
+![](/assets/images/CV/business.png)
 
 <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/business.png" alt="Work Experience" width="70" height="70"></p>
     <p align="center">&#8226 I am a <strong>post-doctoral researcher</strong> at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a> with <a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1" target="_blank">Prof. Van Gool</a>.</p>
