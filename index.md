@@ -1,5 +1,5 @@
 ---
-layout: home2
+layout: home
 title: Me in a Nutshell
 description: "Marc Sanchez-Artigas's website"
 tags: [Jekyll, theme, responsive, blog, template]
