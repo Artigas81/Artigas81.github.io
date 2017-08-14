@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: Teaching
-permalink: /teaching/
 description: "Marc Sanchez-Artigas's website"
 author_profile: true
 tags: [URV, AST, Distributed Computing]
