@@ -11,5 +11,5 @@ header:
  .archive p { font-size: 16px; }
 </style>
 
-You can also download my [résumé in PDF](/assets/cv/msanchez_cv_eng_17.pdf) (Last updated May 2017).
+You can also download my [rÃ©sumÃ© in PDF](/assets/cv/msanchez_cv_eng_17.pdf) (Last updated May 2017).
 
