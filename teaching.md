@@ -12,7 +12,7 @@ header:
   .archive p {
      font-size: 16px;
    }
-   li {
+   ul > li {
      font-size: 16px;
    }
 </style>
