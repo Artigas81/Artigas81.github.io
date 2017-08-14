@@ -1,7 +1,7 @@
 ﻿---
 layout: archive
 permalink: /teaching/
-title: Teaching
+title: My Teaching
 description: "Marc Sanchez-Artigas's website"
 author_profile: true
 header:
