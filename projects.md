@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Projects
+title: Research Projects
 description: "Marc Sanchez-Artigas's website"
 author_profile: true
 tags: [URV, AST, Distributed Computing]
@@ -18,91 +18,92 @@ header:
 </style>
 
 
-### Projects
+### Research Projects
 
 ***
 
-### [Moodly](https://github.com/AkshayAgarwal007/Moodly)
-Moodly is a student intimation system for Moodle (NIIT University). It is a desktop app which keeps you updated with notifications of files uploaded or any forum updates (of the courses you are registered in) on NU-Moodle. In addition to that it also helps you download and manage your Moodle course files.
+### [IOStack: Software Defined Storage for Big Data](http://iostack.eu/)
+Funded by the European Commission-H2020 Research and Innovation. **Contract No. H2020-644182.**
 
-It is is written in Python, uses PyQt5, a set of Python bindings for the Qt5 Application framework for its GUI, Requests for sending HTTP requests and BeautifulSoup for HTML parsing and does not make use of any Moodle API because it was intended to be a Web Scrapping Project.
-
-***
-
-### [Jekyll-Mono](https://github.com/AkshayAgarwal007/Jekyll-Mono)
-Jekyll-Mono is a Jekyll powered Github Profile cum Blog theme.
+The main objective is to create IOStack: a Software-defined Storage toolkit for Big Data on top
+of the OpenStack platform. IOStack will enable efficient execution of virtualized analytics 
+applications over virtualized storage resources thanks to flexible, automated, and low cost 
+data management models based on software-defined storage (SDS).
 
 ***
 
-### [SmartBin]("https://news.microsoft.com/en-in/microsoft-announces-india-winners-of-the-14th-edition-of-imagine-cup/#sm.00008z5pm019sbdazyadt8jlmmj73")
-An IoT and Wireless Sensor Network based Smart Garbage Monitoring System using NRF based network.
-(Team, Project Lead/Network Engineer)
 
-**Runners Up, Microsoft Imagine Cup National Finals India 2016 (Innovation Category)**
+### [Software-Defined Edge Clouds](http://ast-deim.urv.cat/wppedro/2016/12/30/software-defined-edge-clouds/)
+Funded by the Spanish Ministry of Economy and Competitiveness (MEYC), **Contract No. TIN2016-77836-C2-1-R.** 
 
 ***
 
-### [SWM (Smart Water Management)]("#")
-An IoT based Smart Water Level Monitoring and Management System using Raspberry Pi. (Team, Network Engineer/Software Developer)
 
-**Winner IoT based Appathon Competition at IIT Kanpur organised by Juniper Networks**
-
-***
-
-### [Blockly-PE](https://github.com/AkshayAgarwal007/Blockly-PE)
-A Blockly based  HTML Page  Editor.
+### [Cloud4Comm: Servicios cloud y redes comunitarias](http://ast-deim.urv.cat/wppedro/2014/01/01/servicios-cloud-y-redes-comunitarias/)
+Funded by the Spanish Ministry of Economy and Competitiveness (MEYC), **Contract No. TIN2013-47245-C2-2-R.** 
 
 ***
 
-### [ The Syntax Club Website]("#")
-Developed the website for my non-profit organisation **The Syntax Club** using Bootstrap as the front-end framework and Laravel(PHP) as the backend framework hosted on a Linux Server. 
+### [CloudSpaces: Open Service Platform for the Next Generation of Personal Clouds](http://cloudspaces.eu/)
+Funded by the European Commission—7th Framework Program. **Contract No. FP7-317555.** 
+
+The CloudSpaces project advocates for a paradigm shift from application-centric to person-centric models 
+where users can retake the control of their information. CloudSpaces aims to create the next generation
+of open Personal Clouds.
+***
+
+### [RealCloud: Real Data Center Cloud Services and Environment](http://ast-deim.urv.cat/wppedro/2011/01/01/real-data-center-cloud-services-enviroment/)
+Funded by the Spanish Ministry of Science and Innovation (MCIN), **Contract No. IPT-2011-1232-430000.** 
 
 ***
 
-### [ OPEC (One Pi Every Community) ]("") 
-Inspired by the Negroponte's One Laptop Per Child and the ongoing coding revolution led by organisations like Raspberry Pi Foundation, Code.org, Coderdojo, etc and after seeing the plight of the underprivileged kids and lack of CS Education in Indian Educational System started project OPEC, where I designed a customised Raspberry Pi computer and a small curriculum for teaching coding consisting of Basics of Computer, LOGO, Blockly, Python, for 4-11 yrs kids. Donated the RPi Computer to an orphpanage and conducted workshops every weekend and taught basics of computer and coding to a group of 60 underprivileged kids over a span of two months in the summer of 2015 alongwith [Abhishek Kumar]() and [Sumit Mukherjee](). 
+### [DELFIN:Selfadapting Decentralized Systems for the Future Internet](http://ast-deim.urv.cat/wppedro/2011/01/01/delfin-self-adapting-decentralized-systems-future-internet/)
+Funded by the Spanish Ministry of Science and Innovation (MCIN), **Contract No. TIN2010-20140-C03-03.** 
 
-We also donated notebooks and had to resort to the traditional BlackBoard teaching method as a single device was not enough but the kids practiced it in turns over the week. [Sumit]("") carried on with the workshops after summer vacations and an Hour of Code was also conducted during the Computer Science Week. (Team, Project Lead)
-
-***
-
-### [WordzZap]("#")
-
-It is a Pygame based Fruit Catcher Cum Typing Practice Game for kids.
-
-***
-
-### [Spacio](https://AkshayAgarwal007/Spacio)
-
-It is a Pygame based 2D space adventure game. 
+The DELFIN project is focused on the design of self-adapting decentralized systems for the Future Internet. 
+The network of the future is facing serious challenges due to an enormous increase in traffic, computing 
+power and a miriad of novel devices connected to the network. For this reason, a new generation of distributed
+systems must provide extreme scalability and adaptivity to variable node and network conditions. We aim to
+cover the whole feedback loop of adaptive systems including: sensing and analysis, control and self-regulation,
+and finally system adaptation and reaction.
 
 ***
 
-### [Pi-Py-Po](https://AkshayAgarwal007/Pi-Py-Po)
+### [NEUROLEARNING: Sistema telemedico de Intervencion Neuropsicologica Basado en Entornos Virtuales Interactivos](http://ast-deim.urv.cat/wppedro/2008/12/23/neurolearning-sistema-telemedico-de-intervencion-neuropsicologica-basado-en-entornos-virtuales/)
+Funded by the Spanish Ministry of Industry, Turism and Commerce (MITC), **Contract No. TSI-020501-2008-154.** 
 
-It is a remake of the famous Tic-Tac-Toe game using Pygame.   
+***
 
+### [P2PGRID: Self-adjusting peer-to-peer and Grid Systems](http://ast-deim.urv.cat/wppedro/2007/10/01/p2pgrid-self-adjusting-peer-peer-gird-systems/)
+Funded by the Spanish Ministry of Science and Technology (MCYT), **Contract No. TIN2007-68050-C03.** 
 
-## Research Projects
+P2PGRID project is focused on the design of innovative large scale distributed systems, decentralized, able to adapt to complex environments 
+in terms of infrastructure or use and heterogeneous in the access to communication and computation resources.
 
-### A Survey of Wireless Sensor Networks
+A key goal is the use of economic algorithms in order to create a Grid infrastructure with efficient resource allocation mechanisms. 
+It is thus necessary the study, design, and evaluation of resource allocation algorithms in distributed computation systems. 
+Such systems must take into account several variables like client demand, resource state and availability, and the competition 
+among services—to provide decentralized and autonomous system adaptivity.
 
-   A complete literature review of Wireless Sensor Networks including the study of networks from where the field started (SOSUS, DSN) , study of all the literature works concerning various layers of the WSN protocol stack, study of all the developments that took place because of the need of integrating WSN with the Internet (making IEEE 802.15.4 TCP/IP compatible/6LoWPAN,  ZigBee IP etc.) , use of WSNs in Home Automation Systems (Thread, Z-Wave, EnOcean) and new communication technologies like LoRaWAN, Sigfox etx for Low Power Wide Area Network.
-   
-### Integrating Wireless Sensor Network with the Internet of Things, Approaches, Challenges and Applications
+***
 
-   A study and analysis of the various integration approaches (Gateway, Overlay, Hybrid) and technologies like 6LoWPAN, challenges facing the integration and which approach is suitable depending upon the application.
+### [POPEYE: Professional Peer Environment Beyond Edge Computing](http://srvweb01.softeco.it/IST-Popeye/)
+Specific Targeted Research Project (STREP) funded by the EU—6th Framework Program, IST priority. **Contract No. IST-2006-034241.** 
 
-### Effects of Extrinsic Motivation on Intrinsic Motivation to learn (Educational Psychology)
+Next generation collaborative systems will offer the mobile users seamless and natural collaboration amongst a diversity of 
+agents within distributed, knowledge-rich and virtualised working environment. However this ambitious goal needs to face
+numerous challenges from the underlying communication infrastructure through to the high level application services which, 
+depending on the operational need to address, can receive different answers both technological and scientific.
 
-A study on how extrinsic motivation affects intrinsic motivation(overjustification effect) to learn among students and how it is wrongly put to use in Indian Educational System.
+***
 
+### [PLANET: Plataforma de colaboracion aumentada para el acceso y distribucionde contenidos educativos](http://ast-deim.urv.cat/wppedro/2003/12/01/planet-plataforma-de-colaboracion-aumentada-para-el-acceso-y-distribucion-de-contenidos-educativos/)
+Funded by the Spanish Ministry of Science and Technology (MCYT), **Contract No. TIC2003-09288-C02-00.**
 
-### A Study of the Various Learning Paradigms (Educational Technology)
+The main goal of this project is to develop a low-cost multiuser collaborative platform for advanced training in settings 
+like Architecture, Medicine or scientific simulation. The platform will extend an existing Collaborative Virtual Environment
+(MOVE) in order to provide advanced interaction and visualization with immersive virtual reality 3D devices like Head Mounted
+Displays, gloves and stereoscopic projection systems. We will also experiment with augmented reality systems in mobile scenarios
+in order to generate improved training contents for the selected disciplines.
 
-A study of various learning paradigms like Behaviorism, Constructivism, Constructionism, Minimally Invasive Education etc.
-
-
-## Contact me
-
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+*** 
