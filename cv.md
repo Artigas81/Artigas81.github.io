@@ -1,6 +1,5 @@
 ---
-layout: cv
-permalink: /cv/
+layout: archive
 title: CV 
 description: "Marc Sanchez-Artigas's website" 
 author_profile: true
