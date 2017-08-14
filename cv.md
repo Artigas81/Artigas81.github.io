@@ -1,5 +1,5 @@
----
-layout: archive
+﻿---
+layout: cv
 title: CV
 permalink: /cv/
 description: "Marc Sanchez-Artigas's website"

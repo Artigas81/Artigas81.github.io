@@ -1,0 +1,65 @@
+﻿---
+layout: default
+---
+<style>
+  .bottom-three {
+     margin-bottom: 1.5cm;
+   }
+  .bottom-small {
+     margin-bottom: 1cm;
+   }
+</style>
+
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+
+
+
+
+
+
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/talk.png" alt="Languages" width="70" height="70"></p>
+    <p align="center">>&#8226 El <strong>catalÃ </strong> Ã©s la meva llengua materna.</p>
+    <p align="center">>&#8226 Hablo <strong>espaÃ±ol</strong> como lengua materna.</p>
+    <p align="center">>&#8226 My <strong>English</strong> is proficient.</p>
+    <p align="center">>&#8226 Je parle un peu <strong>franÃ§ais</strong>.</p>
+
+
+    {{ content }}
+
+
+  </div>
+</div>
+
+
+
+
+   
+      
+
+
+
+      
+    
+    
+    
+    
+    
