@@ -45,7 +45,7 @@ Funded by the Spanish Ministry of Economy and Competitiveness (MEYC), **Contract
 ***
 
 ### [CloudSpaces: Open Service Platform for the Next Generation of Personal Clouds](http://cloudspaces.eu/)
-Funded by the European Commission—7th Framework Program. **Contract No. FP7-317555.** 
+Funded by the European Commission (7th Framework Program). **Contract No. FP7-317555.** 
 
 The CloudSpaces project advocates for a paradigm shift from application-centric to person-centric models 
 where users can retake the control of their information. CloudSpaces aims to create the next generation
@@ -57,7 +57,7 @@ Funded by the Spanish Ministry of Science and Innovation (MCIN), **Contract No. 
 
 ***
 
-### [DELFIN:Selfadapting Decentralized Systems for the Future Internet](http://ast-deim.urv.cat/wppedro/2011/01/01/delfin-self-adapting-decentralized-systems-future-internet/)
+### [DELFIN: Self-adapting Decentralized Systems for the Future Internet](http://ast-deim.urv.cat/wppedro/2011/01/01/delfin-self-adapting-decentralized-systems-future-internet/)
 Funded by the Spanish Ministry of Science and Innovation (MCIN), **Contract No. TIN2010-20140-C03-03.** 
 
 The DELFIN project is focused on the design of self-adapting decentralized systems for the Future Internet. 
@@ -70,7 +70,7 @@ and finally system adaptation and reaction.
 ***
 
 ### [NEUROLEARNING: Sistema telemedico de Intervencion Neuropsicologica Basado en Entornos Virtuales Interactivos](http://ast-deim.urv.cat/wppedro/2008/12/23/neurolearning-sistema-telemedico-de-intervencion-neuropsicologica-basado-en-entornos-virtuales/)
-Funded by the Spanish Ministry of Industry, Turism and Commerce (MITC), **Contract No. TSI-020501-2008-154.** 
+Funded by the Spanish Ministry of Industry, Tourism and Commerce (MITC), **Contract No. TSI-020501-2008-154.** 
 
 ***
 
@@ -83,12 +83,12 @@ in terms of infrastructure or use and heterogeneous in the access to communicati
 A key goal is the use of economic algorithms in order to create a Grid infrastructure with efficient resource allocation mechanisms. 
 It is thus necessary the study, design, and evaluation of resource allocation algorithms in distributed computation systems. 
 Such systems must take into account several variables like client demand, resource state and availability, and the competition 
-among services—to provide decentralized and autonomous system adaptivity.
+among services to provide decentralized and autonomous system adaptivity.
 
 ***
 
 ### [POPEYE: Professional Peer Environment Beyond Edge Computing](http://srvweb01.softeco.it/IST-Popeye/)
-Specific Targeted Research Project (STREP) funded by the EU—6th Framework Program, IST priority. **Contract No. IST-2006-034241.** 
+Specific Targeted Research Project (STREP) funded by the EU (6th Framework Program), IST priority. **Contract No. IST-2006-034241.** 
 
 Next generation collaborative systems will offer the mobile users seamless and natural collaboration amongst a diversity of 
 agents within distributed, knowledge-rich and virtualised working environment. However this ambitious goal needs to face
@@ -97,7 +97,7 @@ depending on the operational need to address, can receive different answers both
 
 ***
 
-### [PLANET: Plataforma de colaboracion aumentada para el acceso y distribucionde contenidos educativos](http://ast-deim.urv.cat/wppedro/2003/12/01/planet-plataforma-de-colaboracion-aumentada-para-el-acceso-y-distribucion-de-contenidos-educativos/)
+### [PLANET: Plataforma de colaboracion aumentada para el acceso y distribucion de contenidos educativos](http://ast-deim.urv.cat/wppedro/2003/12/01/planet-plataforma-de-colaboracion-aumentada-para-el-acceso-y-distribucion-de-contenidos-educativos/)
 Funded by the Spanish Ministry of Science and Technology (MCYT), **Contract No. TIC2003-09288-C02-00.**
 
 The main goal of this project is to develop a low-cost multiuser collaborative platform for advanced training in settings 
