@@ -15,23 +15,18 @@ header:
 </style>
 
 
-### Teaching
+Supporting material is available on our [Moodle](https://moodle.urv.cat/moodle/?lang=en) learning management system. 
 
-* ST370, Probability and Statistics for Engineers  
-[2012 spring](http://www.stat.ncsu.edu/people/zhou/courses/st370/), 2011 fall, 2011 spring, 2010 fall
+### Teaching (September 2005 to present)
 
-* ST552, Linear Models and Variance Components  
-[2013 fall](./teaching/st552-2013fall/)
 
-* ST758, Computation for Statistical Research  
-[2014 fall](./teaching/st758-2014fall/), 2013 fall, 2012 fall
-
-* ST790-003, Advanced Statistical Computing  
-[2015 spring](http://hua-zhou.github.io/teaching/st790-2015spr)
-
-* ST810, Advanced Statistical Computing  
-[2013 spring](http://www.stat.ncsu.edu/people/zhou/courses/st810/)
-
-* BIOSTAT M280/BIOMATH M280/STAT 230, Statistical Computing  
-[2017 spring](http://hua-zhou.github.io/teaching/biostatm280-2017spring/), 2016 winter
-
+* Programming Languages, URV, 2008
+* Fundamentals of Computing, URV, 2009, 2010
+* Fundamentals of Programming Languages, URV, 2010-2014
+* Open Systems, URV, 2009-2017
+* Parallel Architectures II, URV, 2010-2012
+* Distributed Systems I, URV, 2013
+* Distributed Systems, URV, 2014-2018
+* Peer-to-peer Computing, URV, 2005-2012
+* Digital Identity, URV, 2016-2018
+* Architectures for Distributed Systems, 2014-2017
