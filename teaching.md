@@ -1,9 +1,10 @@
 ﻿---
 layout: archive
+title: Teaching
 permalink: /teaching/
-title: My Teaching
 description: "Marc Sanchez-Artigas's website"
 author_profile: true
+tags: [URV, AST, Distributed Computing]
 header:
   overlay_image: /assets/images/Grauges.jpg
 ---
@@ -34,3 +35,4 @@ header:
 
 * BIOSTAT M280/BIOMATH M280/STAT 230, Statistical Computing  
 [2017 spring](http://hua-zhou.github.io/teaching/biostatm280-2017spring/), 2016 winter
+
