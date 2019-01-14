@@ -33,4 +33,5 @@ Supporting material is available on our [Moodle](https://moodle.urv.cat/moodle/?
 * Distributed Systems, URV, 2014-2018
 * Peer-to-peer Computing, URV, 2005-2012
 * Digital Identity, URV, 2016-2019
+* Architectures for Distributed Systems, URV, 2014-2019
 * Large-scale  Distributed Systems, UOC, 2014, 2015, 2018
