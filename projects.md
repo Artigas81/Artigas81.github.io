@@ -25,6 +25,7 @@ header:
 Funded by the European Commission-H2020 Research and Innovation. **Contract No. H2020-825184.**
 
 The main goal is to create CloudButton: a Serverless Data Analytics Platform. CloudButton will democratize big data by overly simplifying the overall life cycle and programming model thanks to serverless technologies. To demonstrate the impact of the project, we target two settings with large data volumes: bioinformatics (genomics, metabolomics) and geospatial data (LiDAR, satellital).
+
 ***
 
 #### [IOStack: Software Defined Storage for Big Data](http://iostack.eu/)
