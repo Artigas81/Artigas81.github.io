@@ -26,10 +26,11 @@ Supporting material is available on our [Moodle](https://moodle.urv.cat/moodle/?
 * Programming Languages, URV, 2008
 * Fundamentals of Computing, URV, 2009, 2010
 * Fundamentals of Programming Languages, URV, 2010-2014
-* Open Systems, URV, 2009-2017
+* Fundamentals of Programming Languages II, URV, 2019
+* Open Systems, URV, 2009-2018
 * Parallel Architectures II, URV, 2010-2012
 * Distributed Systems I, URV, 2013
 * Distributed Systems, URV, 2014-2018
 * Peer-to-peer Computing, URV, 2005-2012
-* Digital Identity, URV, 2016-2018
-* Architectures for Distributed Systems, 2014-2017
+* Digital Identity, URV, 2016-2019
+* Large-scale  Distributed Systems, UOC, 2014, 2015, 2018
