@@ -14,7 +14,7 @@ header:
    }
 </style>
 
-I'm a tenure-track associate professor at [Universitat Rovira i Virgili](http://www.urv.cat/en/) (Tarragona, Spain) in the Department of Computer Engineering and Maths. <br />
+I'm an associate professor at [Universitat Rovira i Virgili](http://www.urv.cat/en/) (Tarragona, Spain) in the Department of Computer Engineering and Maths. <br />
 
 I obtained my Ph.D. degree in 2009 with European Mention at [UPF](https://www.upf.edu/en/) (Barcelona, Spain). During my PhD, I also worked at [LSIR Group, EPFL](http://lsir.epfl.ch/group/) (Switzerland). In 2009, I joined the [Universitat Rovira i Virgili](http://www.urv.cat/en/), Department of Computer Engineering and Maths, as an assistant professor. <br />
 
