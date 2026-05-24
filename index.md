@@ -14,18 +14,62 @@ header:
    }
 </style>
 
-He is a **Full Professor** of **Distributed Computing** at the Universitat Rovira i Virgili (URV).
+<p style="font-size:15px; line-height:1.6;">
 
-He received his Ph.D. in Computer Science from the Universitat Pompeu Fabra (UPF), Spain, in 2009. During his doctoral studies, he worked at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. In the same year, he joined the Universitat Rovira i Virgili.
+I am a <span style="color:#1f77b4; font-weight:600;">Full Professor</span> of 
+<span style="color:#1f77b4; font-weight:600;">Distributed Computing</span> at the 
+Universitat Rovira i Virgili (URV).
 
-He received the **Best Paper Award** at IEEE LCN 2007 and the **Best Dataset Award** at ACM IMC 2015. He has published more than 90 scientific articles in leading venues, including IEEE P2P, ACM/IFIP Middleware, IEEE ICDCS, IEEE ICDE, IEEE INFOCOM, and USENIX FAST.
+<br><br>
 
-Over the years, he has participated in several European research projects, including **CloudSpaces**, **IOStack**, **CloudButton**, **EXTRACT**, **NearData**, and **SIXG**, as well as the European mobility network **CloudStars**. He also coordinated the Horizon Europe project **CloudSkin** (Grant No. 101092646).
+I received my Ph.D. in Computer Science from the Universitat Pompeu Fabra (UPF), Spain, in 2009. 
+During my doctoral studies, I worked at the 
+<span style="color:#2ca02c; font-weight:600;">École Polytechnique Fédérale de Lausanne (EPFL)</span>, Switzerland. 
+In the same year, I joined URV.
 
-He has been actively involved in the coordination of several Spanish research projects in Cloud and Edge Computing. In addition, he contributed to the coordination of the **CloudLess** project under the UNICO R&D Cloud program, which supports Spanish companies participating in the **Important Project of Common European Interest for Next-Generation Cloud Infrastructure and Services (IPCEI-CIS)**.
+<br><br>
 
-He has also served as an evaluator for Spanish research and technology transfer projects funded by the **Agencia Estatal de Investigación (AEI)** and the **Centro para el Desarrollo Tecnológico y la Innovación (CDTI)**.
+I received the <span style="color:#d62728; font-weight:600;">Best Paper Award</span> at IEEE LCN 2007 and the 
+<span style="color:#d62728; font-weight:600;">Best Dataset Award</span> at ACM IMC 2015. 
+I have published more than <b>90 scientific articles</b> in leading venues such as IEEE P2P, ACM/IFIP Middleware, IEEE ICDCS, IEEE ICDE, IEEE INFOCOM, and USENIX FAST.
 
-He has been a visiting researcher at **IBM Research Ireland**. He has served on the Technical Program Committees of numerous international conferences and workshops, including IEEE P2P, ACM SYSTOR, IEEE IPDPS, IEEE/ACM CCGrid, IEEE Cloud, and Euro-Par. He has also served as a Guest Editor for the journal *Computer Networks* (Elsevier).
+<br><br>
 
-Furthermore, he has organized several national and international scientific conferences and workshops, including **IEEE P2P 2012** and **ACM Middleware 2026**.
+Over the years, I have participated in several European research projects, including 
+<span style="color:#9467bd; font-weight:600;">CloudSpaces</span>, 
+<span style="color:#9467bd; font-weight:600;">IOStack</span>, 
+<span style="color:#9467bd; font-weight:600;">CloudButton</span>, 
+<span style="color:#9467bd; font-weight:600;">EXTRACT</span>, 
+<span style="color:#9467bd; font-weight:600;">NearData</span>, and 
+<span style="color:#9467bd; font-weight:600;">SIXG</span>, as well as the European mobility network 
+<span style="color:#9467bd; font-weight:600;">CloudStars</span>.
+
+I also coordinated the Horizon Europe project 
+<span style="color:#ff7f0e; font-weight:600;">CloudSkin</span> (Grant No. 101092646).
+
+<br><br>
+
+I have been actively involved in the coordination of several Spanish research projects in Cloud and Edge Computing. 
+In addition, I contributed to the coordination of the 
+<span style="color:#ff7f0e; font-weight:600;">CloudLess</span> project under the UNICO R&D Cloud program, supporting Spanish companies participating in the 
+<span style="color:#ff7f0e; font-weight:600;">IPCEI-CIS initiative</span>.
+
+<br><br>
+
+I have served as an evaluator for research and technology transfer projects funded by the 
+<span style="color:#17becf; font-weight:600;">Agencia Estatal de Investigación (AEI)</span> and the 
+<span style="color:#17becf; font-weight:600;">CDTI</span>.
+
+<br><br>
+
+I have been a visiting researcher at <span style="font-weight:600;">IBM Research Ireland</span>. 
+I have served on the Technical Program Committees of several international conferences and workshops, including IEEE P2P, ACM SYSTOR, IEEE IPDPS, IEEE/ACM CCGrid, IEEE Cloud, and Euro-Par. 
+I have also served as Guest Editor for <i>Computer Networks (Elsevier)</i>.
+
+<br><br>
+
+Furthermore, I have organized several international and national scientific events, including 
+<span style="color:#1f77b4; font-weight:600;">IEEE P2P 2012</span> and 
+<span style="color:#1f77b4; font-weight:600;">ACM Middleware 2026</span>.
+
+</p>
