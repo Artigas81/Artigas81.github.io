@@ -8,35 +8,29 @@ header:
   overlay_image: /assets/images/Grauges.jpg
 ---
 
-## Teaching
+<h4 style="font-size:18px; font-weight:600; margin-top:20px;">
+🎓 Academic Teaching at URV
+</h4>
 
-Since 2005, I have taught undergraduate and graduate courses at the
-Universitat Rovira i Virgili (URV), accumulating more than **430 ECTS**
-of teaching experience.
+<p style="font-size:14px; margin-top:0;">
+🧠 Teaching activity at Universitat Rovira i Virgili (URV) (2005–present), including undergraduate and master-level courses.
+</p>
 
-### Selected Undergraduate Courses
+<ul style="font-size:14px; line-height:1.5;">
+  <li>🧩 <b>Distributed Systems</b> (2014–2020, URV)</li>
+  <li>🛒 <b>E-commerce Systems</b> (2021–2023, URV)</li>
+  <li>🌐 <b>Open Systems</b> (2009–2025, URV)</li>
+  <li>🤝 <b>Peer-to-Peer Computing</b> (2005–2012, URV)</li>
+  <li>🛡️ <b>Safe Distributed Systems Architectures</b> (2016–2025, Master)</li>
+  <li>🔐 <b>Digital Identity</b> (2016–2020, Master)</li>
+</ul>
 
-- **Open Systems** (2009–present)
-- **Distributed Systems** (2014–2020)
-- **E-commerce Systems** (2021–2023)
-- **Fundamentals of Programming Languages** (2010–2014, 2019)
+<p style="font-size:14px;">
+🏛️ Also taught at <b>UOC</b> (Distributed Systems, Large-scale Distributed Systems, Master theses supervision)  
+<br>
+🏢 Professional training (FURV): Java Programming courses for industry
+</p>
 
-### Selected Master's Courses
-
-- **Safe Distributed System Architectures** (2016–present)
-- **Digital Identity** (2016–2020)
-- **Architectures for Distributed Systems** (2014–2015)
-- **Peer-to-Peer Computing** (2005–2012)
-
-### Other Teaching Activities
-
-- Part-time Associate Professor at Universitat Oberta de Catalunya (UOC).
-- Instructor for professional training courses through Fundació URV.
-- Supervisor of PhD, Master's, and Bachelor's theses in Cloud Computing, Distributed Systems, and Computer Security.
-
-### Teaching Highlights
-
-- More than **430 ECTS** taught since 2005.
-- Undergraduate and graduate teaching in Distributed Systems, Cloud Computing, Security, and Programming Languages.
-- Teaching experience at both URV and UOC.
-- Continuous teaching activity for over 20 academic years.
+<p style="font-size:12px; color:#666;">
+📊 Full teaching load and ECTS details available upon request
+</p>
