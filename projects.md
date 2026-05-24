@@ -7,111 +7,227 @@ tags: [URV, AST, Distributed Computing]
 header:
   overlay_image: /assets/images/Grauges.jpg
 ---
-
 <style>
-  .archive p {
-     font-size: 16px;
-   }
-   .archive ul > li {
-     font-size: 16px;
-   }
+  body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background:#f7f9fc;
+    color:#1f2d3d;
+  }
+
+  header{
+    background: linear-gradient(90deg,#2b5876,#4e4376);
+    color:white;
+    padding:40px 20px;
+    text-align:center;
+  }
+
+  header h1{
+    margin:0;
+    font-size:32px;
+  }
+
+  .container{
+    max-width:1100px;
+    margin:30px auto;
+    padding:0 20px;
+  }
+
+  .stats{
+    display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    gap:15px;
+    margin-bottom:30px;
+  }
+
+  .stat{
+    background:white;
+    border-radius:12px;
+    padding:15px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.06);
+    text-align:center;
+  }
+
+  .stat span{
+    font-size:22px;
+    font-weight:bold;
+    color:#4e4376;
+  }
+
+  .card{
+    background:white;
+    border-radius:14px;
+    padding:18px;
+    margin-bottom:15px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.06);
+    border-left:6px solid #4e4376;
+  }
+
+  details{
+    margin-bottom:10px;
+  }
+
+  summary{
+    cursor:pointer;
+    font-weight:bold;
+    font-size:16px;
+    padding:10px;
+    background:#eef2f7;
+    border-radius:10px;
+  }
+
+  .tag{
+    display:inline-block;
+    padding:3px 8px;
+    border-radius:8px;
+    font-size:12px;
+    margin-left:8px;
+    background:#dfe7ff;
+    color:#2b3a67;
+  }
+
+  .meta{
+    font-size:13px;
+    color:#555;
+    margin-top:6px;
+  }
+
+  .emoji{
+    margin-right:6px;
+  }
+
+  a{
+    color:#2b5876;
+    text-decoration:none;
+  }
+
+  a:hover{
+    text-decoration:underline;
+  }
 </style>
+</head>
 
+<body>
 
-### Research Projects
+<header>
+  <h1>🚀 Research & Innovation Portfolio</h1>
+  <p>Cloud • Edge • Distributed Systems • Serverless • Data Analytics</p>
+</header>
 
-***
-#### [CloudButton: Serverless Data Analytics Platform](http://cloudbutton.eu/)
-Funded by the European Commission-H2020 Research and Innovation. **Contract No. H2020-825184.**
+<div class="container">
 
-The main goal is to create CloudButton: a Serverless Data Analytics Platform. CloudButton will democratize big data by overly simplifying the overall life cycle and programming model thanks to serverless technologies. To demonstrate the impact of the project, we target two settings with large data volumes: bioinformatics (genomics, metabolomics) and geospatial data (LiDAR, satellital).
+<!-- STATS -->
+<div class="stats">
+  <div class="stat">📊 <br><span>21</span><br>Projects</div>
+  <div class="stat">🧑‍🏫 <br><span>5</span><br>PI (URV)</div>
+  <div class="stat">🌍 <br><span>13</span><br>EU Projects</div>
+  <div class="stat">💰 <br><span>€8.39M</span><br>URV Funding</div>
+</div>
 
-Brief introduction to [Serverless Computing and FaaS](/assets/files/FaaS.pdf).
+<!-- PROJECTS -->
+<h2>🌟 Research Projects</h2>
 
-***
+<details class="card" open>
+<summary>☁️ SIXG – Serverless 6G Infrastructure <span class="tag">2026–2028</span></summary>
+<div class="meta">
+EU Horizon (SNS JU) · Grant 101291424 · PI: Marc Sánchez-Artigas · €442,500 (URV)
+</div>
+</details>
 
-#### [IOStack: Software Defined Storage for Big Data](http://iostack.eu/)
-Funded by the European Commission-H2020 Research and Innovation. **Contract No. H2020-644182.**
+<details class="card">
+<summary>🧠 Intelligent Optimization of Extreme Data Analytics <span class="tag">2024–2027</span></summary>
+<div class="meta">
+Spanish MCIN · PID2023-148202OB-C21 · PI: Pedro A. García López & Marc Sánchez-Artigas · €105,625 (URV)
+</div>
+</details>
 
-The main objective is to create IOStack: a Software-defined Storage toolkit for Big Data on top
-of the OpenStack platform. IOStack will enable efficient execution of virtualized analytics 
-applications over virtualized storage resources thanks to flexible, automated, and low cost 
-data management models based on software-defined storage (SDS).
+<details class="card">
+<summary>⚙️ Adaptive Virtualization for AI Cloud-Edge Continuum <span class="tag">2022–2025</span></summary>
+<div class="meta">
+Horizon Europe · Grant 101092646 · Coordinator: Marc Sánchez-Artigas  · €669,375 (URV)
+</div>
+</details>
 
-***
+<details class="card">
+<summary>🧊 NEARDATA – Near Data Processing Platform <span class="tag">2022–2025</span></summary>
+<div class="meta">
+Horizon Europe · Grant 101092644 · Coordinator · €743,125 (URV)
+</div>
+</details>
 
+<details class="card">
+<summary>🔬 EXTRACT – Data Mining across Compute Continuum <span class="tag">2022–2026</span></summary>
+<div class="meta">
+Horizon Europe · Grant 101092645 · €539,000 (URV)
+</div>
+</details>
 
-#### [Software-Defined Edge Clouds](http://ast-deim.urv.cat/wppedro/2016/12/30/software-defined-edge-clouds/)
-Funded by the Spanish Ministry of Economy and Competitiveness (MEYC), **Contract No. TIN2016-77836-C2-1-R.** 
+<details class="card">
+<summary>☁️ CLOUDSTARS – Research Mobility Network <span class="tag">2023–2026</span></summary>
+<div class="meta">
+MSCA Staff Exchanges · Grant 101086248 · €1.3M total
+</div>
+</details>
 
-***
+<details class="card">
+<summary>⚡ CloudButton – Serverless Data Analytics</summary>
+<div class="meta">
+EU H2020 · 825184 · Coordinator · €633,125 (URV)
+</div>
+</details>
 
+<details class="card">
+<summary>💾 IOStack – Software Defined Storage</summary>
+<div class="meta">
+EU H2020 · 644182 · Coordinator · €440,900 (URV)
+</div>
+</details>
 
-#### [Cloud4Comm: Servicios cloud y redes comunitarias](http://ast-deim.urv.cat/wppedro/2014/01/01/servicios-cloud-y-redes-comunitarias/)
-Funded by the Spanish Ministry of Economy and Competitiveness (MEYC), **Contract No. TIN2013-47245-C2-2-R.** 
+<details class="card">
+<summary>🌐 CloudSpaces – Personal Clouds</summary>
+<div class="meta">
+FP7 · 317555 · Coordinator · €558,342 (URV)
+</div>
+</details>
 
-***
+<details class="card">
+<summary>📡 POPEYE – Peer Edge Systems</summary>
+<div class="meta">
+EU FP6 · IST-2006-034241 · €183,565 (URV)
+</div>
+</details>
 
-#### [CloudSpaces: Open Service Platform for the Next Generation of Personal Clouds](http://cloudspaces.eu/)
-Funded by the European Commission (7th Framework Program). **Contract No. FP7-317555.** 
+<details class="card">
+<summary>🧪 PLANET – Collaborative Learning Platform</summary>
+<div class="meta">
+MCYT · TIC2003-09288 · €110,400 (URV)
+</div>
+</details>
 
-The CloudSpaces project advocates for a paradigm shift from application-centric to person-centric models 
-where users can retake the control of their information. CloudSpaces aims to create the next generation
-of open Personal Clouds.
-***
+<!-- TECH TRANSFER -->
+<h2>🏭 Tech Transfer</h2>
 
-#### [RealCloud: Real Data Center Cloud Services and Environment](http://ast-deim.urv.cat/wppedro/2011/01/01/real-data-center-cloud-services-enviroment/)
-Funded by the Spanish Ministry of Science and Innovation (MCIN), **Contract No. IPT-2011-1232-430000.** 
+<details class="card">
+<summary>🔐 CLOUDLESS – Edge Cloud Platform <span class="tag">2022–2025</span></summary>
+<div class="meta">
+IPCEI-CIS · UNICO R&D · €2.35M total
+</div>
+</details>
 
-***
+<details class="card">
+<summary>🔒 Secure Cloud Storage Advisory</summary>
+<div class="meta">
+TISSAT · €10,000
+</div>
+</details>
 
-#### [DELFIN: Self-adapting Decentralized Systems for the Future Internet](http://ast-deim.urv.cat/wppedro/2011/01/01/delfin-self-adapting-decentralized-systems-future-internet/)
-Funded by the Spanish Ministry of Science and Innovation (MCIN), **Contract No. TIN2010-20140-C03-03.** 
+<!-- OTHER FUNDING -->
+<h2>🎓 Other Funding</h2>
 
-The DELFIN project is focused on the design of self-adapting decentralized systems for the Future Internet. 
-The network of the future is facing serious challenges due to an enormous increase in traffic, computing 
-power and a miriad of novel devices connected to the network. For this reason, a new generation of distributed
-systems must provide extreme scalability and adaptivity to variable node and network conditions. We aim to
-cover the whole feedback loop of adaptive systems including: sensing and analysis, control and self-regulation,
-and finally system adaptation and reaction.
-
-***
-
-#### [NEUROLEARNING: Sistema telemedico de Intervencion Neuropsicologica Basado en Entornos Virtuales Interactivos](http://ast-deim.urv.cat/wppedro/2008/12/23/neurolearning-sistema-telemedico-de-intervencion-neuropsicologica-basado-en-entornos-virtuales/)
-Funded by the Spanish Ministry of Industry, Tourism and Commerce (MITC), **Contract No. TSI-020501-2008-154.** 
-
-***
-
-#### [P2PGRID: Self-adjusting peer-to-peer and Grid Systems](http://ast-deim.urv.cat/wppedro/2007/10/01/p2pgrid-self-adjusting-peer-peer-gird-systems/)
-Funded by the Spanish Ministry of Science and Technology (MCYT), **Contract No. TIN2007-68050-C03.** 
-
-P2PGRID project is focused on the design of innovative large scale distributed systems, decentralized, able to adapt to complex environments 
-in terms of infrastructure or use and heterogeneous in the access to communication and computation resources.
-
-A key goal is the use of economic algorithms in order to create a Grid infrastructure with efficient resource allocation mechanisms. 
-It is thus necessary the study, design, and evaluation of resource allocation algorithms in distributed computation systems. 
-Such systems must take into account several variables like client demand, resource state and availability, and the competition 
-among services to provide decentralized and autonomous system adaptivity.
-
-***
-
-#### [POPEYE: Professional Peer Environment Beyond Edge Computing](http://srvweb01.softeco.it/IST-Popeye/)
-Specific Targeted Research Project (STREP) funded by the EU (6th Framework Program), IST priority. **Contract No. IST-2006-034241.** 
-
-Next generation collaborative systems will offer the mobile users seamless and natural collaboration amongst a diversity of 
-agents within distributed, knowledge-rich and virtualised working environment. However this ambitious goal needs to face
-numerous challenges from the underlying communication infrastructure through to the high level application services which, 
-depending on the operational need to address, can receive different answers both technological and scientific.
-
-***
-
-#### [PLANET: Plataforma de colaboracion aumentada para el acceso y distribucion de contenidos educativos](http://ast-deim.urv.cat/wppedro/2003/12/01/planet-plataforma-de-colaboracion-aumentada-para-el-acceso-y-distribucion-de-contenidos-educativos/)
-Funded by the Spanish Ministry of Science and Technology (MCYT), **Contract No. TIC2003-09288-C02-00.**
-
-The main goal of this project is to develop a low-cost multiuser collaborative platform for advanced training in settings 
-like Architecture, Medicine or scientific simulation. The platform will extend an existing Collaborative Virtual Environment
-(MOVE) in order to provide advanced interaction and visualization with immersive virtual reality 3D devices like Head Mounted
-Displays, gloves and stereoscopic projection systems. We will also experiment with augmented reality systems in mobile scenarios
-in order to generate improved training contents for the selected disciplines.
-
-*** 
+<details class="card">
+<summary>💻 Java Programming Fundamentals</summary>
+<div class="meta">
+Industry training (T-Systems) · 2011–2015
+</div>
+</details>
+</div>
