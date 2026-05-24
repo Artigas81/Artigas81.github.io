@@ -8,30 +8,35 @@ header:
   overlay_image: /assets/images/Grauges.jpg
 ---
 
-<style>
-  .archive p {
-     font-size: 16px;
-   }
-   .archive ul > li {
-     font-size: 16px;
-   }
-</style>
+## Teaching
 
+Since 2005, I have taught undergraduate and graduate courses at the
+Universitat Rovira i Virgili (URV), accumulating more than **430 ECTS**
+of teaching experience.
 
-Supporting material is available on our [Moodle](https://moodle.urv.cat/moodle/?lang=en) learning management system. 
+### Selected Undergraduate Courses
 
-### Teaching (September 2005 to present)
+- **Open Systems** (2009–present)
+- **Distributed Systems** (2014–2020)
+- **E-commerce Systems** (2021–2023)
+- **Fundamentals of Programming Languages** (2010–2014, 2019)
 
+### Selected Master's Courses
 
-* Programming Languages, URV, 2008
-* Fundamentals of Computing, URV, 2009, 2010
-* Fundamentals of Programming Languages, URV, 2010-2014
-* Fundamentals of Programming Languages II, URV, 2019
-* Open Systems, URV, 2009-2018
-* Parallel Architectures II, URV, 2010-2012
-* Distributed Systems I, URV, 2013
-* Distributed Systems, URV, 2014-2018
-* Peer-to-peer Computing, URV, 2005-2012
-* Digital Identity, URV, 2016-2019
-* Architectures for Distributed Systems, URV, 2014-2019
-* Large-scale  Distributed Systems, UOC, 2014, 2015, 2018
+- **Safe Distributed System Architectures** (2016–present)
+- **Digital Identity** (2016–2020)
+- **Architectures for Distributed Systems** (2014–2015)
+- **Peer-to-Peer Computing** (2005–2012)
+
+### Other Teaching Activities
+
+- Part-time Associate Professor at Universitat Oberta de Catalunya (UOC).
+- Instructor for professional training courses through Fundació URV.
+- Supervisor of PhD, Master's, and Bachelor's theses in Cloud Computing, Distributed Systems, and Computer Security.
+
+### Teaching Highlights
+
+- More than **430 ECTS** taught since 2005.
+- Undergraduate and graduate teaching in Distributed Systems, Cloud Computing, Security, and Programming Languages.
+- Teaching experience at both URV and UOC.
+- Continuous teaching activity for over 20 academic years.
