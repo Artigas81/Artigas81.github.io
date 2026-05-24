@@ -132,5 +132,3 @@ I have also served as Guest Editor for <em>Computer Networks (Elsevier)</em>.
 Furthermore, I have organized several international and national scientific events, including 
 <span style="color:#1f77b4; font-weight:600;">IEEE P2P 2012</span> and 
 <span style="color:#1f77b4; font-weight:600;">ACM Middleware 2026</span>.
-
-</p>
