@@ -105,9 +105,6 @@ header:
     text-decoration:underline;
   }
 </style>
-</head>
-
-<body>
 
 <header>
   <h1>🚀 Research & Innovation Portfolio</h1>
