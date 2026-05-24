@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Me in a Nutshell
+title: Bio
 description: "Marc Sanchez-Artigas's website"
 author_profile: true
 tags: [URV, AST, Distributed Computing]
