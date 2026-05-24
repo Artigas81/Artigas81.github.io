@@ -14,7 +14,7 @@ header:
    }
 </style>
 
-He is a Full Professor at the Universitat Rovira i Virgili (URV).
+He is a **Full Professor** of **Distributed Computing** at the Universitat Rovira i Virgili (URV).
 
 He received his Ph.D. in Computer Science from the Universitat Pompeu Fabra (UPF), Spain, in 2009. During his doctoral studies, he worked at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. In the same year, he joined the Universitat Rovira i Virgili.
 
